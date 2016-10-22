@@ -1,2 +1,1 @@
-# AchalML-A-Python-Machine-Learning-Library
-Python implementation of machine learning algorithms
+# achalml: python implementation of machine learning algorithms
