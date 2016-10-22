@@ -1,1 +1,2 @@
-# achalml: python implementation of machine learning algorithms
+# achalml
+Python implementation of machine learning algorithms
